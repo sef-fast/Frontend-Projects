@@ -1,7 +1,7 @@
 # Frontend Projects
 A series of frontend projects built with HTML & CSS.
 
-**Developer:** Saifurehman (sef-fast) | Pakistan 🇵🇰
+**Developer:** sef-fast | Pakistan 🇵🇰
 
 ## Tech Stack
 - HTML5
