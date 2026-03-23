@@ -45,8 +45,3 @@ better social links structure, and cleaner layout
 ```
 
 
-
-
-For `Frontend-Projects`:
-```
-Update README - add detailed project info for 4A and 4B
